@@ -5,13 +5,10 @@
     <title>Sistema de Login</title>
   </head>
   <body>
-    <table>
-      <th>Nome</th>
-      <tr>
-        <th>Senha</th>
-      </tr>
-
-    </table>
+  <form class="" action="index.html" method="post">
+    <p>Nome</p>
+    <input type="Text" name="oi">
+  </form>
 
   </body>
 </html>
